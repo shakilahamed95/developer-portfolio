@@ -38,3 +38,16 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.box-model{
+    width: 40%;
+    height: 400px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 50px peru;
+}
+.education{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
